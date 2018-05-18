@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BasePodFoundation"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "iOS 基本库"
 
   # This description is used to generate tags and improve search results.
@@ -139,7 +139,7 @@ Pod::Spec.new do |s|
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
  #s.dependency "Masonry"
  #s.dependency "MJRefresh"
- s.dependency "AFNetworking"
+ #s.dependency "AFNetworking"
  #s.dependency "Mantle"
  #s.dependency "MBProgressHUD"
  #s.dependency "SAMKeychain"
